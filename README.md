@@ -48,6 +48,10 @@ Todas las rutas tienen el prefijo ennumerado `api1`, `api2`, `api3`
 **Gentilicio**
 Esta aplicacion utiliza el [API de divisas REST](https://api.exchangeratesapi.io) para poder obtener las tasas actualizadas de las monedas. el tipo de moneda de origen y destino se valida (Origen: `USD` Destino: `DOP` MONTO: `100`).
 
+### Pruebas
+Las pruebas fueron realizadas con Postam, aqui les dejo el collection de ellas
+```https://pabp5247-7236280.postman.co/workspace/Pabp's-Workspace~266a664a-a591-4fad-89ad-c8f817f6551f/collection/47319401-c44ba07a-7018-4833-9fb9-884c5934add4?action=share&creator=47319401```
+
 ### Resultados
 
 Los resultados esperados como se especifica en el doc proporsinado pueden ser visualizados en el siguiente link de postman:
